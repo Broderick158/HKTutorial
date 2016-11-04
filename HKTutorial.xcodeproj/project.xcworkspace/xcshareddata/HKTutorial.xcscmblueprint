@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "515CB37335BBF85A377685549665DF3F7F2B8875",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "515CB37335BBF85A377685549665DF3F7F2B8875" : 9223372036854775807,
+    "E3A07C74CAD4AF026834AE255C36E1AA28BF1F20" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6876F656-A040-4D9F-B406-E445E904D73C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "515CB37335BBF85A377685549665DF3F7F2B8875" : "HKTutorialBase\/",
+    "E3A07C74CAD4AF026834AE255C36E1AA28BF1F20" : "HKTutorial"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HKTutorial",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HKTutorial.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Broderick158\/HKTutorial.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "515CB37335BBF85A377685549665DF3F7F2B8875"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/192.168.1.77\/volume1\/gitrepo\/HKTutorial\/",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E3A07C74CAD4AF026834AE255C36E1AA28BF1F20"
+    }
+  ]
+}
