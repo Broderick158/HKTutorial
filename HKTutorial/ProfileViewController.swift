@@ -37,30 +37,30 @@ class ProfileViewController: UITableViewController {
   
   func updateProfileInfo()
   {
-    println("TODO: update profile Information")
+    print("TODO: update profile Information")
   }
   
   
   func updateHeight()
   {
-    println("TODO: update Height")
+    print("TODO: update Height")
     
   }
   
   func updateWeight()
   {
-    println("TODO: update Weight")
+    print("TODO: update Weight")
   }
   
   func updateBMI()
   {
-    println("TODO: update BMI")
+    print("TODO: update BMI")
     
   }
   
   func saveBMI() {
     
-    println("TODO: save BMI sample")
+    print("TODO: save BMI sample")
     
   }
   // MARK: - utility methods
